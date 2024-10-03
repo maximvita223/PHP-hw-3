@@ -15,7 +15,6 @@ foreach ($lines as $line) {
     // Сравнение дат
     if ($birthdate == $crutch) {
         echo "Сегодня день рождения у $name! \n";
-    }else{
     }
 
 }
